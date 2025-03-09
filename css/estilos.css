@@ -432,7 +432,8 @@ footer {
     background-position: center;
   }
   nav > a{
-    padding-left: 15px;
+    padding-left: 8px;
+    
   }
 
   .contenedor-sobre-nosotros {
